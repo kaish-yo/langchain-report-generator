@@ -1,0 +1,1966 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "app.core.logger.custom_logging",
+        "description": "app.core.logger.custom_logging",
+        "isExtraImport": true,
+        "detail": "app.core.logger.custom_logging",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "app.core.logger.custom_logging",
+        "description": "app.core.logger.custom_logging",
+        "isExtraImport": true,
+        "detail": "app.core.logger.custom_logging",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "starlette.middleware.cors",
+        "description": "starlette.middleware.cors",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "healthcheck",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "RemoveMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "get_buffer_string",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesState",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesState",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesState",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesState",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesState",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "tools_condition",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "ToolNode",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "ToolNode",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "tools_condition",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "tools_condition",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "ToolNode",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "NodeInterrupt",
+        "importPath": "langgraph.errors",
+        "description": "langgraph.errors",
+        "isExtraImport": true,
+        "detail": "langgraph.errors",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "importPath": "operator",
+        "description": "operator",
+        "isExtraImport": true,
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Send",
+        "importPath": "langgraph.constants",
+        "description": "langgraph.constants",
+        "isExtraImport": true,
+        "detail": "langgraph.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Send",
+        "importPath": "langgraph.constants",
+        "description": "langgraph.constants",
+        "isExtraImport": true,
+        "detail": "langgraph.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain_core.documents",
+        "description": "langchain_core.documents",
+        "isExtraImport": true,
+        "detail": "langchain_core.documents",
+        "documentation": {}
+    },
+    {
+        "label": "WikipediaLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "WikipediaLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "TavilySearchResults",
+        "importPath": "langchain_community.tools.tavily_search",
+        "description": "langchain_community.tools.tavily_search",
+        "isExtraImport": true,
+        "detail": "langchain_community.tools.tavily_search",
+        "documentation": {}
+    },
+    {
+        "label": "TavilySearchResults",
+        "importPath": "langchain_community.tools.tavily_search",
+        "description": "langchain_community.tools.tavily_search",
+        "isExtraImport": true,
+        "detail": "langchain_community.tools.tavily_search",
+        "documentation": {}
+    },
+    {
+        "label": "check_health",
+        "kind": 2,
+        "importPath": "app.api.v1.healthcheck",
+        "description": "app.api.v1.healthcheck",
+        "peekOfCode": "def check_health():\n    logger.info(\"healthcheck\")\n    return {\"message\": \"OK\"}",
+        "detail": "app.api.v1.healthcheck",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.healthcheck",
+        "description": "app.api.v1.healthcheck",
+        "peekOfCode": "router = APIRouter(tags=[\"healthcheck\"], prefix=\"/api/v1\")\n@router.get(\"/healthcheck\", tags=[\"healthcheck\"])\ndef check_health():\n    logger.info(\"healthcheck\")\n    return {\"message\": \"OK\"}",
+        "detail": "app.api.v1.healthcheck",
+        "documentation": {}
+    },
+    {
+        "label": "InterceptHandler",
+        "kind": 6,
+        "importPath": "app.core.logger.custom_logging",
+        "description": "app.core.logger.custom_logging",
+        "peekOfCode": "class InterceptHandler(logging.Handler):\n    loglevel_mapping = {\n        50: \"CRITICAL\",\n        40: \"ERROR\",\n        30: \"WARNING\",\n        20: \"INFO\",\n        10: \"DEBUG\",\n        0: \"NOTSET\",\n    }\n    def emit(self, record):",
+        "detail": "app.core.logger.custom_logging",
+        "documentation": {}
+    },
+    {
+        "label": "CustomizeLogger",
+        "kind": 6,
+        "importPath": "app.core.logger.custom_logging",
+        "description": "app.core.logger.custom_logging",
+        "peekOfCode": "class CustomizeLogger:\n    @classmethod\n    def make_logger(cls, config_path: Path):\n        config = cls.load_logging_config(config_path)\n        logging_config = config.get(\"logger\")\n        logger = cls.customize_logging(\n            logging_config.get(\"path\"),\n            level=\"DEBUG\" if settings.DEBUG else \"INFO\",\n            retention=logging_config.get(\"retention\"),\n            rotation=logging_config.get(\"rotation\"),",
+        "detail": "app.core.logger.custom_logging",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.core.logger.custom_logging",
+        "description": "app.core.logger.custom_logging",
+        "peekOfCode": "settings = get_settings()\nclass InterceptHandler(logging.Handler):\n    loglevel_mapping = {\n        50: \"CRITICAL\",\n        40: \"ERROR\",\n        30: \"WARNING\",\n        20: \"INFO\",\n        10: \"DEBUG\",\n        0: \"NOTSET\",\n    }",
+        "detail": "app.core.logger.custom_logging",
+        "documentation": {}
+    },
+    {
+        "label": "config_path",
+        "kind": 5,
+        "importPath": "app.core.logger.custom_logging",
+        "description": "app.core.logger.custom_logging",
+        "peekOfCode": "config_path = Path(__file__).parent / (\n    \"logging_config.json\" if settings.ENV != \"local\" else \"logging_config_local.json\"\n)\nlogger = CustomizeLogger.make_logger(config_path)  # noqa F811",
+        "detail": "app.core.logger.custom_logging",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.core.logger.custom_logging",
+        "description": "app.core.logger.custom_logging",
+        "peekOfCode": "logger = CustomizeLogger.make_logger(config_path)  # noqa F811",
+        "detail": "app.core.logger.custom_logging",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    # NOTE: .envファイルや環境変数が同名の変数にセットされる\n    TITLE: str = \"FastAPI App\"\n    ENV: str = \"\"\n    DEBUG: bool = False\n    VERSION: str = \"0.0.1\"\n    CORS_ORIGINS: list[str] = [\n        \"http://localhost:8000\",\n        \"http://127.0.0.1:8000\",\n        \"http://localhost:3000\",",
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "peekOfCode": "def get_settings() -> Settings:\n    return Settings()",
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "NoParsingFilter",
+        "kind": 6,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "class NoParsingFilter(logging.Filter):\n    def filter(self, record: logging.LogRecord) -> bool:\n        return not record.getMessage().find(\"/docs\") >= 0\n# 環境変数など\nsettings = get_settings()\n# init FastAPI\ndef create_app() -> FastAPI:\n    app = FastAPI(\n        title=f\"[{settings.ENV}]{settings.TITLE}\",\n        version=settings.VERSION,",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def create_app() -> FastAPI:\n    app = FastAPI(\n        title=f\"[{settings.ENV}]{settings.TITLE}\",\n        version=settings.VERSION,\n        debug=settings.DEBUG or False,\n        # root_path=f\"{settings.API_GATEWAY_STAGE_PATH}/\",\n    )\n    app.logger = custom_logger\n    return app\napp = create_app()",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_info",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def get_info(request: Request, response: Response) -> dict[str, str]:\n    logger = request.app.logger\n    logger.debug(\"The DEBUG mode is turned on.\")\n    return {\"title\": settings.TITLE, \"version\": settings.VERSION}\napp.include_router(healthcheck.router)",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "settings = get_settings()\n# init FastAPI\ndef create_app() -> FastAPI:\n    app = FastAPI(\n        title=f\"[{settings.ENV}]{settings.TITLE}\",\n        version=settings.VERSION,\n        debug=settings.DEBUG or False,\n        # root_path=f\"{settings.API_GATEWAY_STAGE_PATH}/\",\n    )\n    app.logger = custom_logger",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = create_app()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[str(origin) for origin in settings.CORS_ORIGINS],\n    allow_origin_regex=r\"^https?:\\/\\/([\\w\\-\\_]{1,}\\.|)example\\.com\",\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n@app.get(\"/\", tags=[\"info\"])\ndef get_info(request: Request, response: Response) -> dict[str, str]:",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "def add(a: int, b: int) -> int:\n    \"\"\"Adds a and b.\n    Args:\n        a: first int\n        b: second int\n    \"\"\"\n    return a + b\ndef multiply(a: int, b: int) -> int:\n    \"\"\"Multiplies a and b.\n    Args:",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "multiply",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "def multiply(a: int, b: int) -> int:\n    \"\"\"Multiplies a and b.\n    Args:\n        a: first int\n        b: second int\n    \"\"\"\n    return a * b\ndef divide(a: int, b: int) -> float:\n    \"\"\"Adds a and b.\n    Args:",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "divide",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "def divide(a: int, b: int) -> float:\n    \"\"\"Adds a and b.\n    Args:\n        a: first int\n        b: second int\n    \"\"\"\n    return a / b\ntools = [add, multiply, divide]\n# Define LLM with bound tools\nllm = ChatOpenAI(model=\"gpt-4o\")",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "assistant",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "def assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)\nbuilder.add_node(\"tools\", ToolNode(tools))\nbuilder.add_edge(START, \"assistant\")\nbuilder.add_conditional_edges(\n    \"assistant\",\n    # If the latest message (result) from assistant is a tool call -> tools_condition routes to tools",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "tools = [add, multiply, divide]\n# Define LLM with bound tools\nllm = ChatOpenAI(model=\"gpt-4o\")\nllm_with_tools = llm.bind_tools(tools)\n# System message\nsys_msg = SystemMessage(content=\"You are a helpful assistant tasked with writing performing arithmetic on a set of inputs.\")\n# Node\ndef assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-4o\")\nllm_with_tools = llm.bind_tools(tools)\n# System message\nsys_msg = SystemMessage(content=\"You are a helpful assistant tasked with writing performing arithmetic on a set of inputs.\")\n# Node\ndef assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "llm_with_tools",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "llm_with_tools = llm.bind_tools(tools)\n# System message\nsys_msg = SystemMessage(content=\"You are a helpful assistant tasked with writing performing arithmetic on a set of inputs.\")\n# Node\ndef assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)\nbuilder.add_node(\"tools\", ToolNode(tools))",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "sys_msg",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "sys_msg = SystemMessage(content=\"You are a helpful assistant tasked with writing performing arithmetic on a set of inputs.\")\n# Node\ndef assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)\nbuilder.add_node(\"tools\", ToolNode(tools))\nbuilder.add_edge(START, \"assistant\")\nbuilder.add_conditional_edges(",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "builder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)\nbuilder.add_node(\"tools\", ToolNode(tools))\nbuilder.add_edge(START, \"assistant\")\nbuilder.add_conditional_edges(\n    \"assistant\",\n    # If the latest message (result) from assistant is a tool call -> tools_condition routes to tools\n    # If the latest message (result) from assistant is a not a tool call -> tools_condition routes to END\n    tools_condition,\n)",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.agent",
+        "description": "experiments.langchain-academy-main.module-1.studio.agent",
+        "peekOfCode": "graph = builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-1.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "multiply",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.router",
+        "description": "experiments.langchain-academy-main.module-1.studio.router",
+        "peekOfCode": "def multiply(a: int, b: int) -> int:\n    \"\"\"Multiplies a and b.\n    Args:\n        a: first int\n        b: second int\n    \"\"\"\n    return a * b\n# LLM with bound tool\nllm = ChatOpenAI(model=\"gpt-4o\")\nllm_with_tools = llm.bind_tools([multiply])",
+        "detail": "experiments.langchain-academy-main.module-1.studio.router",
+        "documentation": {}
+    },
+    {
+        "label": "tool_calling_llm",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.router",
+        "description": "experiments.langchain-academy-main.module-1.studio.router",
+        "peekOfCode": "def tool_calling_llm(state: MessagesState):\n    return {\"messages\": [llm_with_tools.invoke(state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"tool_calling_llm\", tool_calling_llm)\nbuilder.add_node(\"tools\", ToolNode([multiply]))\nbuilder.add_edge(START, \"tool_calling_llm\")\nbuilder.add_conditional_edges(\n    \"tool_calling_llm\",\n    # If the latest message (result) from assistant is a tool call -> tools_condition routes to tools",
+        "detail": "experiments.langchain-academy-main.module-1.studio.router",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.router",
+        "description": "experiments.langchain-academy-main.module-1.studio.router",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-4o\")\nllm_with_tools = llm.bind_tools([multiply])\n# Node\ndef tool_calling_llm(state: MessagesState):\n    return {\"messages\": [llm_with_tools.invoke(state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"tool_calling_llm\", tool_calling_llm)\nbuilder.add_node(\"tools\", ToolNode([multiply]))\nbuilder.add_edge(START, \"tool_calling_llm\")",
+        "detail": "experiments.langchain-academy-main.module-1.studio.router",
+        "documentation": {}
+    },
+    {
+        "label": "llm_with_tools",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.router",
+        "description": "experiments.langchain-academy-main.module-1.studio.router",
+        "peekOfCode": "llm_with_tools = llm.bind_tools([multiply])\n# Node\ndef tool_calling_llm(state: MessagesState):\n    return {\"messages\": [llm_with_tools.invoke(state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"tool_calling_llm\", tool_calling_llm)\nbuilder.add_node(\"tools\", ToolNode([multiply]))\nbuilder.add_edge(START, \"tool_calling_llm\")\nbuilder.add_conditional_edges(",
+        "detail": "experiments.langchain-academy-main.module-1.studio.router",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.router",
+        "description": "experiments.langchain-academy-main.module-1.studio.router",
+        "peekOfCode": "builder = StateGraph(MessagesState)\nbuilder.add_node(\"tool_calling_llm\", tool_calling_llm)\nbuilder.add_node(\"tools\", ToolNode([multiply]))\nbuilder.add_edge(START, \"tool_calling_llm\")\nbuilder.add_conditional_edges(\n    \"tool_calling_llm\",\n    # If the latest message (result) from assistant is a tool call -> tools_condition routes to tools\n    # If the latest message (result) from assistant is a not a tool call -> tools_condition routes to END\n    tools_condition,\n)",
+        "detail": "experiments.langchain-academy-main.module-1.studio.router",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.router",
+        "description": "experiments.langchain-academy-main.module-1.studio.router",
+        "peekOfCode": "graph = builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-1.studio.router",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.simple",
+        "description": "experiments.langchain-academy-main.module-1.studio.simple",
+        "peekOfCode": "class State(TypedDict):\n    graph_state: str\n# Conditional edge\ndef decide_mood(state) -> Literal[\"node_2\", \"node_3\"]:\n    # Often, we will use state to decide on the next node to visit\n    user_input = state['graph_state'] \n    # Here, let's just do a 50 / 50 split between nodes 2, 3\n    if random.random() < 0.5:\n        # 50% of the time, we return Node 2\n        return \"node_2\"",
+        "detail": "experiments.langchain-academy-main.module-1.studio.simple",
+        "documentation": {}
+    },
+    {
+        "label": "decide_mood",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.simple",
+        "description": "experiments.langchain-academy-main.module-1.studio.simple",
+        "peekOfCode": "def decide_mood(state) -> Literal[\"node_2\", \"node_3\"]:\n    # Often, we will use state to decide on the next node to visit\n    user_input = state['graph_state'] \n    # Here, let's just do a 50 / 50 split between nodes 2, 3\n    if random.random() < 0.5:\n        # 50% of the time, we return Node 2\n        return \"node_2\"\n    # 50% of the time, we return Node 3\n    return \"node_3\"\n# Nodes",
+        "detail": "experiments.langchain-academy-main.module-1.studio.simple",
+        "documentation": {}
+    },
+    {
+        "label": "node_1",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.simple",
+        "description": "experiments.langchain-academy-main.module-1.studio.simple",
+        "peekOfCode": "def node_1(state):\n    print(\"---Node 1---\")\n    return {\"graph_state\":state['graph_state'] +\" I am\"}\ndef node_2(state):\n    print(\"---Node 2---\")\n    return {\"graph_state\":state['graph_state'] +\" happy!\"}\ndef node_3(state):\n    print(\"---Node 3---\")\n    return {\"graph_state\":state['graph_state'] +\" sad!\"}\n# Build graph",
+        "detail": "experiments.langchain-academy-main.module-1.studio.simple",
+        "documentation": {}
+    },
+    {
+        "label": "node_2",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.simple",
+        "description": "experiments.langchain-academy-main.module-1.studio.simple",
+        "peekOfCode": "def node_2(state):\n    print(\"---Node 2---\")\n    return {\"graph_state\":state['graph_state'] +\" happy!\"}\ndef node_3(state):\n    print(\"---Node 3---\")\n    return {\"graph_state\":state['graph_state'] +\" sad!\"}\n# Build graph\nbuilder = StateGraph(State)\nbuilder.add_node(\"node_1\", node_1)\nbuilder.add_node(\"node_2\", node_2)",
+        "detail": "experiments.langchain-academy-main.module-1.studio.simple",
+        "documentation": {}
+    },
+    {
+        "label": "node_3",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.simple",
+        "description": "experiments.langchain-academy-main.module-1.studio.simple",
+        "peekOfCode": "def node_3(state):\n    print(\"---Node 3---\")\n    return {\"graph_state\":state['graph_state'] +\" sad!\"}\n# Build graph\nbuilder = StateGraph(State)\nbuilder.add_node(\"node_1\", node_1)\nbuilder.add_node(\"node_2\", node_2)\nbuilder.add_node(\"node_3\", node_3)\nbuilder.add_edge(START, \"node_1\")\nbuilder.add_conditional_edges(\"node_1\", decide_mood)",
+        "detail": "experiments.langchain-academy-main.module-1.studio.simple",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.simple",
+        "description": "experiments.langchain-academy-main.module-1.studio.simple",
+        "peekOfCode": "builder = StateGraph(State)\nbuilder.add_node(\"node_1\", node_1)\nbuilder.add_node(\"node_2\", node_2)\nbuilder.add_node(\"node_3\", node_3)\nbuilder.add_edge(START, \"node_1\")\nbuilder.add_conditional_edges(\"node_1\", decide_mood)\nbuilder.add_edge(\"node_2\", END)\nbuilder.add_edge(\"node_3\", END)\n# Compile graph\ngraph = builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-1.studio.simple",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-1.studio.simple",
+        "description": "experiments.langchain-academy-main.module-1.studio.simple",
+        "peekOfCode": "graph = builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-1.studio.simple",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "description": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "peekOfCode": "class State(MessagesState):\n    summary: str\n# Define the logic to call the model\ndef call_model(state: State):\n    # Get summary if it exists\n    summary = state.get(\"summary\", \"\")\n    # If there is summary, then we add it to messages\n    if summary:\n        # Add summary to system message\n        system_message = f\"Summary of conversation earlier: {summary}\"",
+        "detail": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "call_model",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "description": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "peekOfCode": "def call_model(state: State):\n    # Get summary if it exists\n    summary = state.get(\"summary\", \"\")\n    # If there is summary, then we add it to messages\n    if summary:\n        # Add summary to system message\n        system_message = f\"Summary of conversation earlier: {summary}\"\n        # Append summary to any newer messages\n        messages = [SystemMessage(content=system_message)] + state[\"messages\"]\n    else:",
+        "detail": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "should_continue",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "description": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "peekOfCode": "def should_continue(state: State):\n    \"\"\"Return the next node to execute.\"\"\"\n    messages = state[\"messages\"]\n    # If there are more than six messages, then we summarize the conversation\n    if len(messages) > 6:\n        return \"summarize_conversation\"\n    # Otherwise we can just end\n    return END\ndef summarize_conversation(state: State):\n    # First get the summary if it exists",
+        "detail": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "summarize_conversation",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "description": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "peekOfCode": "def summarize_conversation(state: State):\n    # First get the summary if it exists\n    summary = state.get(\"summary\", \"\")\n    # Create our summarization prompt \n    if summary:\n        # If a summary already exists, add it to the prompt\n        summary_message = (\n            f\"This is summary of the conversation to date: {summary}\\n\\n\"\n            \"Extend the summary by taking into account the new messages above:\"\n        )",
+        "detail": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "description": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "peekOfCode": "model = ChatOpenAI(model=\"gpt-4o\", temperature=0) \n# State class to store messages and summary\nclass State(MessagesState):\n    summary: str\n# Define the logic to call the model\ndef call_model(state: State):\n    # Get summary if it exists\n    summary = state.get(\"summary\", \"\")\n    # If there is summary, then we add it to messages\n    if summary:",
+        "detail": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "description": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "peekOfCode": "workflow = StateGraph(State)\nworkflow.add_node(\"conversation\", call_model)\nworkflow.add_node(summarize_conversation)\n# Set the entrypoint as conversation\nworkflow.add_edge(START, \"conversation\")\nworkflow.add_conditional_edges(\"conversation\", should_continue)\nworkflow.add_edge(\"summarize_conversation\", END)\n# Compile\ngraph = workflow.compile()",
+        "detail": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "description": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "peekOfCode": "graph = workflow.compile()",
+        "detail": "experiments.langchain-academy-main.module-2.studio.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "def add(a: int, b: int) -> int:\n    \"\"\"Adds a and b.\n    Args:\n        a: first int\n        b: second int\n    \"\"\"\n    return a + b\ndef multiply(a: int, b: int) -> int:\n    \"\"\"Multiplies a and b.\n    Args:",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "multiply",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "def multiply(a: int, b: int) -> int:\n    \"\"\"Multiplies a and b.\n    Args:\n        a: first int\n        b: second int\n    \"\"\"\n    return a * b\ndef divide(a: int, b: int) -> float:\n    \"\"\"Adds a and b.\n    Args:",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "divide",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "def divide(a: int, b: int) -> float:\n    \"\"\"Adds a and b.\n    Args:\n        a: first int\n        b: second int\n    \"\"\"\n    return a / b\ntools = [add, multiply, divide]\n# Define LLM with bound tools\nllm = ChatOpenAI(model=\"gpt-4o\")",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "assistant",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "def assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)\nbuilder.add_node(\"tools\", ToolNode(tools))\nbuilder.add_edge(START, \"assistant\")\nbuilder.add_conditional_edges(\n    \"assistant\",\n    # If the latest message (result) from assistant is a tool call -> tools_condition routes to tools",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "tools = [add, multiply, divide]\n# Define LLM with bound tools\nllm = ChatOpenAI(model=\"gpt-4o\")\nllm_with_tools = llm.bind_tools(tools)\n# System message\nsys_msg = SystemMessage(content=\"You are a helpful assistant tasked with writing performing arithmetic on a set of inputs.\")\n# Node\ndef assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-4o\")\nllm_with_tools = llm.bind_tools(tools)\n# System message\nsys_msg = SystemMessage(content=\"You are a helpful assistant tasked with writing performing arithmetic on a set of inputs.\")\n# Node\ndef assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "llm_with_tools",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "llm_with_tools = llm.bind_tools(tools)\n# System message\nsys_msg = SystemMessage(content=\"You are a helpful assistant tasked with writing performing arithmetic on a set of inputs.\")\n# Node\ndef assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)\nbuilder.add_node(\"tools\", ToolNode(tools))",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "sys_msg",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "sys_msg = SystemMessage(content=\"You are a helpful assistant tasked with writing performing arithmetic on a set of inputs.\")\n# Node\ndef assistant(state: MessagesState):\n   return {\"messages\": [llm_with_tools.invoke([sys_msg] + state[\"messages\"])]}\n# Build graph\nbuilder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)\nbuilder.add_node(\"tools\", ToolNode(tools))\nbuilder.add_edge(START, \"assistant\")\nbuilder.add_conditional_edges(",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "builder = StateGraph(MessagesState)\nbuilder.add_node(\"assistant\", assistant)\nbuilder.add_node(\"tools\", ToolNode(tools))\nbuilder.add_edge(START, \"assistant\")\nbuilder.add_conditional_edges(\n    \"assistant\",\n    # If the latest message (result) from assistant is a tool call -> tools_condition routes to tools\n    # If the latest message (result) from assistant is a not a tool call -> tools_condition routes to END\n    tools_condition,\n)",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.agent",
+        "description": "experiments.langchain-academy-main.module-3.studio.agent",
+        "peekOfCode": "graph = builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-3.studio.agent",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "description": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "peekOfCode": "class State(TypedDict):\n    input: str\ndef step_1(state: State) -> State:\n    print(\"---Step 1---\")\n    return state\ndef step_2(state: State) -> State:\n    # Let's optionally raise a NodeInterrupt if the length of the input is longer than 5 characters\n    if len(state['input']) > 5:\n        raise NodeInterrupt(f\"Received input that is longer than 5 characters: {state['input']}\")\n    print(\"---Step 2---\")",
+        "detail": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "documentation": {}
+    },
+    {
+        "label": "step_1",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "description": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "peekOfCode": "def step_1(state: State) -> State:\n    print(\"---Step 1---\")\n    return state\ndef step_2(state: State) -> State:\n    # Let's optionally raise a NodeInterrupt if the length of the input is longer than 5 characters\n    if len(state['input']) > 5:\n        raise NodeInterrupt(f\"Received input that is longer than 5 characters: {state['input']}\")\n    print(\"---Step 2---\")\n    return state\ndef step_3(state: State) -> State:",
+        "detail": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "documentation": {}
+    },
+    {
+        "label": "step_2",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "description": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "peekOfCode": "def step_2(state: State) -> State:\n    # Let's optionally raise a NodeInterrupt if the length of the input is longer than 5 characters\n    if len(state['input']) > 5:\n        raise NodeInterrupt(f\"Received input that is longer than 5 characters: {state['input']}\")\n    print(\"---Step 2---\")\n    return state\ndef step_3(state: State) -> State:\n    print(\"---Step 3---\")\n    return state\nbuilder = StateGraph(State)",
+        "detail": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "documentation": {}
+    },
+    {
+        "label": "step_3",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "description": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "peekOfCode": "def step_3(state: State) -> State:\n    print(\"---Step 3---\")\n    return state\nbuilder = StateGraph(State)\nbuilder.add_node(\"step_1\", step_1)\nbuilder.add_node(\"step_2\", step_2)\nbuilder.add_node(\"step_3\", step_3)\nbuilder.add_edge(START, \"step_1\")\nbuilder.add_edge(\"step_1\", \"step_2\")\nbuilder.add_edge(\"step_2\", \"step_3\")",
+        "detail": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "description": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "peekOfCode": "builder = StateGraph(State)\nbuilder.add_node(\"step_1\", step_1)\nbuilder.add_node(\"step_2\", step_2)\nbuilder.add_node(\"step_3\", step_3)\nbuilder.add_edge(START, \"step_1\")\nbuilder.add_edge(\"step_1\", \"step_2\")\nbuilder.add_edge(\"step_2\", \"step_3\")\nbuilder.add_edge(\"step_3\", END)\ngraph = builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "description": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "peekOfCode": "graph = builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-3.studio.dynamic_breakpoints",
+        "documentation": {}
+    },
+    {
+        "label": "Subjects",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "class Subjects(BaseModel):\n    subjects: list[str]\nclass BestJoke(BaseModel):\n    id: int\nclass OverallState(TypedDict):\n    topic: str\n    subjects: list\n    jokes: Annotated[list, operator.add]\n    best_selected_joke: str\ndef generate_topics(state: OverallState):",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "BestJoke",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "class BestJoke(BaseModel):\n    id: int\nclass OverallState(TypedDict):\n    topic: str\n    subjects: list\n    jokes: Annotated[list, operator.add]\n    best_selected_joke: str\ndef generate_topics(state: OverallState):\n    prompt = subjects_prompt.format(topic=state[\"topic\"])\n    response = model.with_structured_output(Subjects).invoke(prompt)",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "OverallState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "class OverallState(TypedDict):\n    topic: str\n    subjects: list\n    jokes: Annotated[list, operator.add]\n    best_selected_joke: str\ndef generate_topics(state: OverallState):\n    prompt = subjects_prompt.format(topic=state[\"topic\"])\n    response = model.with_structured_output(Subjects).invoke(prompt)\n    return {\"subjects\": response.subjects}\nclass JokeState(TypedDict):",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "JokeState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "class JokeState(TypedDict):\n    subject: str\nclass Joke(BaseModel):\n    joke: str\ndef generate_joke(state: JokeState):\n    prompt = joke_prompt.format(subject=state[\"subject\"])\n    response = model.with_structured_output(Joke).invoke(prompt)\n    return {\"jokes\": [response.joke]}\ndef best_joke(state: OverallState):\n    jokes = \"\\n\\n\".join(state[\"jokes\"])",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "Joke",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "class Joke(BaseModel):\n    joke: str\ndef generate_joke(state: JokeState):\n    prompt = joke_prompt.format(subject=state[\"subject\"])\n    response = model.with_structured_output(Joke).invoke(prompt)\n    return {\"jokes\": [response.joke]}\ndef best_joke(state: OverallState):\n    jokes = \"\\n\\n\".join(state[\"jokes\"])\n    prompt = best_joke_prompt.format(topic=state[\"topic\"], jokes=jokes)\n    response = model.with_structured_output(BestJoke).invoke(prompt)",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "generate_topics",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "def generate_topics(state: OverallState):\n    prompt = subjects_prompt.format(topic=state[\"topic\"])\n    response = model.with_structured_output(Subjects).invoke(prompt)\n    return {\"subjects\": response.subjects}\nclass JokeState(TypedDict):\n    subject: str\nclass Joke(BaseModel):\n    joke: str\ndef generate_joke(state: JokeState):\n    prompt = joke_prompt.format(subject=state[\"subject\"])",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "generate_joke",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "def generate_joke(state: JokeState):\n    prompt = joke_prompt.format(subject=state[\"subject\"])\n    response = model.with_structured_output(Joke).invoke(prompt)\n    return {\"jokes\": [response.joke]}\ndef best_joke(state: OverallState):\n    jokes = \"\\n\\n\".join(state[\"jokes\"])\n    prompt = best_joke_prompt.format(topic=state[\"topic\"], jokes=jokes)\n    response = model.with_structured_output(BestJoke).invoke(prompt)\n    return {\"best_selected_joke\": state[\"jokes\"][response.id]}\ndef continue_to_jokes(state: OverallState):",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "best_joke",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "def best_joke(state: OverallState):\n    jokes = \"\\n\\n\".join(state[\"jokes\"])\n    prompt = best_joke_prompt.format(topic=state[\"topic\"], jokes=jokes)\n    response = model.with_structured_output(BestJoke).invoke(prompt)\n    return {\"best_selected_joke\": state[\"jokes\"][response.id]}\ndef continue_to_jokes(state: OverallState):\n    return [Send(\"generate_joke\", {\"subject\": s}) for s in state[\"subjects\"]]\n# Construct the graph: here we put everything together to construct our graph\ngraph_builder = StateGraph(OverallState)\ngraph_builder.add_node(\"generate_topics\", generate_topics)",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "continue_to_jokes",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "def continue_to_jokes(state: OverallState):\n    return [Send(\"generate_joke\", {\"subject\": s}) for s in state[\"subjects\"]]\n# Construct the graph: here we put everything together to construct our graph\ngraph_builder = StateGraph(OverallState)\ngraph_builder.add_node(\"generate_topics\", generate_topics)\ngraph_builder.add_node(\"generate_joke\", generate_joke)\ngraph_builder.add_node(\"best_joke\", best_joke)\ngraph_builder.add_edge(START, \"generate_topics\")\ngraph_builder.add_conditional_edges(\"generate_topics\", continue_to_jokes, [\"generate_joke\"])\ngraph_builder.add_edge(\"generate_joke\", \"best_joke\")",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "subjects_prompt",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "subjects_prompt = \"\"\"Generate a list of 3 sub-topics that are all related to this overall topic: {topic}.\"\"\"\njoke_prompt = \"\"\"Generate a joke about {subject}\"\"\"\nbest_joke_prompt = \"\"\"Below are a bunch of jokes about {topic}. Select the best one! Return the ID of the best one, starting 0 as the ID for the first joke. Jokes: \\n\\n  {jokes}\"\"\"\n# LLM\nmodel = ChatOpenAI(model=\"gpt-4o\", temperature=0) \n# Define the state\nclass Subjects(BaseModel):\n    subjects: list[str]\nclass BestJoke(BaseModel):\n    id: int",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "joke_prompt",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "joke_prompt = \"\"\"Generate a joke about {subject}\"\"\"\nbest_joke_prompt = \"\"\"Below are a bunch of jokes about {topic}. Select the best one! Return the ID of the best one, starting 0 as the ID for the first joke. Jokes: \\n\\n  {jokes}\"\"\"\n# LLM\nmodel = ChatOpenAI(model=\"gpt-4o\", temperature=0) \n# Define the state\nclass Subjects(BaseModel):\n    subjects: list[str]\nclass BestJoke(BaseModel):\n    id: int\nclass OverallState(TypedDict):",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "best_joke_prompt",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "best_joke_prompt = \"\"\"Below are a bunch of jokes about {topic}. Select the best one! Return the ID of the best one, starting 0 as the ID for the first joke. Jokes: \\n\\n  {jokes}\"\"\"\n# LLM\nmodel = ChatOpenAI(model=\"gpt-4o\", temperature=0) \n# Define the state\nclass Subjects(BaseModel):\n    subjects: list[str]\nclass BestJoke(BaseModel):\n    id: int\nclass OverallState(TypedDict):\n    topic: str",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "model = ChatOpenAI(model=\"gpt-4o\", temperature=0) \n# Define the state\nclass Subjects(BaseModel):\n    subjects: list[str]\nclass BestJoke(BaseModel):\n    id: int\nclass OverallState(TypedDict):\n    topic: str\n    subjects: list\n    jokes: Annotated[list, operator.add]",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "graph_builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "graph_builder = StateGraph(OverallState)\ngraph_builder.add_node(\"generate_topics\", generate_topics)\ngraph_builder.add_node(\"generate_joke\", generate_joke)\ngraph_builder.add_node(\"best_joke\", best_joke)\ngraph_builder.add_edge(START, \"generate_topics\")\ngraph_builder.add_conditional_edges(\"generate_topics\", continue_to_jokes, [\"generate_joke\"])\ngraph_builder.add_edge(\"generate_joke\", \"best_joke\")\ngraph_builder.add_edge(\"best_joke\", END)\n# Compile the graph\ngraph = graph_builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "description": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "peekOfCode": "graph = graph_builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-4.studio.map_reduce",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "description": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "peekOfCode": "class State(TypedDict):\n    question: str\n    answer: str\n    context: Annotated[list, operator.add]\ndef search_web(state):\n    \"\"\" Retrieve docs from web search \"\"\"\n    # Search\n    tavily_search = TavilySearchResults(max_results=3)\n    search_docs = tavily_search.invoke(state['question'])\n     # Format",
+        "detail": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "documentation": {}
+    },
+    {
+        "label": "search_web",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "description": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "peekOfCode": "def search_web(state):\n    \"\"\" Retrieve docs from web search \"\"\"\n    # Search\n    tavily_search = TavilySearchResults(max_results=3)\n    search_docs = tavily_search.invoke(state['question'])\n     # Format\n    formatted_search_docs = \"\\n\\n---\\n\\n\".join(\n        [\n            f'<Document href=\"{doc[\"url\"]}\"/>\\n{doc[\"content\"]}\\n</Document>'\n            for doc in search_docs",
+        "detail": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "documentation": {}
+    },
+    {
+        "label": "search_wikipedia",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "description": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "peekOfCode": "def search_wikipedia(state):\n    \"\"\" Retrieve docs from wikipedia \"\"\"\n    # Search\n    search_docs = WikipediaLoader(query=state['question'], \n                                  load_max_docs=2).load()\n     # Format\n    formatted_search_docs = \"\\n\\n---\\n\\n\".join(\n        [\n            f'<Document source=\"{doc.metadata[\"source\"]}\" page=\"{doc.metadata.get(\"page\", \"\")}\"/>\\n{doc.page_content}\\n</Document>'\n            for doc in search_docs",
+        "detail": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "documentation": {}
+    },
+    {
+        "label": "generate_answer",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "description": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "peekOfCode": "def generate_answer(state):\n    \"\"\" Node to answer a question \"\"\"\n    # Get state\n    context = state[\"context\"]\n    question = state[\"question\"]\n    # Template\n    answer_template = \"\"\"Answer the question {question} using this context: {context}\"\"\"\n    answer_instructions = answer_template.format(question=question, \n                                                       context=context)    \n    # Answer",
+        "detail": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "description": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-4o\", temperature=0) \nclass State(TypedDict):\n    question: str\n    answer: str\n    context: Annotated[list, operator.add]\ndef search_web(state):\n    \"\"\" Retrieve docs from web search \"\"\"\n    # Search\n    tavily_search = TavilySearchResults(max_results=3)\n    search_docs = tavily_search.invoke(state['question'])",
+        "detail": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "description": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "peekOfCode": "builder = StateGraph(State)\n# Initialize each node with node_secret \nbuilder.add_node(\"search_web\",search_web)\nbuilder.add_node(\"search_wikipedia\", search_wikipedia)\nbuilder.add_node(\"generate_answer\", generate_answer)\n# Flow\nbuilder.add_edge(START, \"search_wikipedia\")\nbuilder.add_edge(START, \"search_web\")\nbuilder.add_edge(\"search_wikipedia\", \"generate_answer\")\nbuilder.add_edge(\"search_web\", \"generate_answer\")",
+        "detail": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "description": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "peekOfCode": "graph = builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-4.studio.parallelization",
+        "documentation": {}
+    },
+    {
+        "label": "Analyst",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "class Analyst(BaseModel):\n    affiliation: str = Field(\n        description=\"Primary affiliation of the analyst.\",\n    )\n    name: str = Field(\n        description=\"Name of the analyst.\"\n    )\n    role: str = Field(\n        description=\"Role of the analyst in the context of the topic.\",\n    )",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "Perspectives",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "class Perspectives(BaseModel):\n    analysts: List[Analyst] = Field(\n        description=\"Comprehensive list of analysts with their roles and affiliations.\",\n    )\nclass GenerateAnalystsState(TypedDict):\n    topic: str # Research topic\n    max_analysts: int # Number of analysts\n    human_analyst_feedback: str # Human feedback\n    analysts: List[Analyst] # Analyst asking questions\nclass InterviewState(MessagesState):",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "GenerateAnalystsState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "class GenerateAnalystsState(TypedDict):\n    topic: str # Research topic\n    max_analysts: int # Number of analysts\n    human_analyst_feedback: str # Human feedback\n    analysts: List[Analyst] # Analyst asking questions\nclass InterviewState(MessagesState):\n    max_num_turns: int # Number turns of conversation\n    context: Annotated[list, operator.add] # Source docs\n    analyst: Analyst # Analyst asking questions\n    interview: str # Interview transcript",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "InterviewState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "class InterviewState(MessagesState):\n    max_num_turns: int # Number turns of conversation\n    context: Annotated[list, operator.add] # Source docs\n    analyst: Analyst # Analyst asking questions\n    interview: str # Interview transcript\n    sections: list # Final key we duplicate in outer state for Send() API\nclass SearchQuery(BaseModel):\n    search_query: str = Field(None, description=\"Search query for retrieval.\")\nclass ResearchGraphState(TypedDict):\n    topic: str # Research topic",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "SearchQuery",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "class SearchQuery(BaseModel):\n    search_query: str = Field(None, description=\"Search query for retrieval.\")\nclass ResearchGraphState(TypedDict):\n    topic: str # Research topic\n    max_analysts: int # Number of analysts\n    human_analyst_feedback: str # Human feedback\n    analysts: List[Analyst] # Analyst asking questions\n    sections: Annotated[list, operator.add] # Send() API key\n    introduction: str # Introduction for the final report\n    content: str # Content for the final report",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "ResearchGraphState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "class ResearchGraphState(TypedDict):\n    topic: str # Research topic\n    max_analysts: int # Number of analysts\n    human_analyst_feedback: str # Human feedback\n    analysts: List[Analyst] # Analyst asking questions\n    sections: Annotated[list, operator.add] # Send() API key\n    introduction: str # Introduction for the final report\n    content: str # Content for the final report\n    conclusion: str # Conclusion for the final report\n    final_report: str # Final report",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "create_analysts",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def create_analysts(state: GenerateAnalystsState):\n    \"\"\" Create analysts \"\"\"\n    topic=state['topic']\n    max_analysts=state['max_analysts']\n    human_analyst_feedback=state.get('human_analyst_feedback', '')\n    # Enforce structured output\n    structured_llm = llm.with_structured_output(Perspectives)\n    # System message\n    system_message = analyst_instructions.format(topic=topic,\n                                                            human_analyst_feedback=human_analyst_feedback, ",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "human_feedback",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def human_feedback(state: GenerateAnalystsState):\n    \"\"\" No-op node that should be interrupted on \"\"\"\n    pass\n# Generate analyst question\nquestion_instructions = \"\"\"You are an analyst tasked with interviewing an expert to learn about a specific topic. \nYour goal is boil down to interesting and specific insights related to your topic.\n1. Interesting: Insights that people will find surprising or non-obvious.\n2. Specific: Insights that avoid generalities and include specific examples from the expert.\nHere is your topic of focus and set of goals: {goals}\nBegin by introducing yourself using a name that fits your persona, and then ask your question.",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "generate_question",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def generate_question(state: InterviewState):\n    \"\"\" Node to generate a question \"\"\"\n    # Get state\n    analyst = state[\"analyst\"]\n    messages = state[\"messages\"]\n    # Generate question \n    system_message = question_instructions.format(goals=analyst.persona)\n    question = llm.invoke([SystemMessage(content=system_message)]+messages)\n    # Write messages to state\n    return {\"messages\": [question]}",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "search_web",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def search_web(state: InterviewState):\n    \"\"\" Retrieve docs from web search \"\"\"\n    # Search\n    tavily_search = TavilySearchResults(max_results=3)\n    # Search query\n    structured_llm = llm.with_structured_output(SearchQuery)\n    search_query = structured_llm.invoke([search_instructions]+state['messages'])\n    # Search\n    search_docs = tavily_search.invoke(search_query.search_query)\n     # Format",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "search_wikipedia",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def search_wikipedia(state: InterviewState):\n    \"\"\" Retrieve docs from wikipedia \"\"\"\n    # Search query\n    structured_llm = llm.with_structured_output(SearchQuery)\n    search_query = structured_llm.invoke([search_instructions]+state['messages'])\n    # Search\n    search_docs = WikipediaLoader(query=search_query.search_query, \n                                  load_max_docs=2).load()\n     # Format\n    formatted_search_docs = \"\\n\\n---\\n\\n\".join(",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "generate_answer",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def generate_answer(state: InterviewState):\n    \"\"\" Node to answer a question \"\"\"\n    # Get state\n    analyst = state[\"analyst\"]\n    messages = state[\"messages\"]\n    context = state[\"context\"]\n    # Answer question\n    system_message = answer_instructions.format(goals=analyst.persona, context=context)\n    answer = llm.invoke([SystemMessage(content=system_message)]+messages)\n    # Name the message as coming from the expert",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "save_interview",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def save_interview(state: InterviewState):\n    \"\"\" Save interviews \"\"\"\n    # Get messages\n    messages = state[\"messages\"]\n    # Convert interview to a string\n    interview = get_buffer_string(messages)\n    # Save to interviews key\n    return {\"interview\": interview}\ndef route_messages(state: InterviewState, \n                   name: str = \"expert\"):",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "route_messages",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def route_messages(state: InterviewState, \n                   name: str = \"expert\"):\n    \"\"\" Route between question and answer \"\"\"\n    # Get messages\n    messages = state[\"messages\"]\n    max_num_turns = state.get('max_num_turns',2)\n    # Check the number of expert answers \n    num_responses = len(\n        [m for m in messages if isinstance(m, AIMessage) and m.name == name]\n    )",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "write_section",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def write_section(state: InterviewState):\n    \"\"\" Node to write a section \"\"\"\n    # Get state\n    interview = state[\"interview\"]\n    context = state[\"context\"]\n    analyst = state[\"analyst\"]\n    # Write section using either the gathered source docs from interview (context) or the interview itself (interview)\n    system_message = section_writer_instructions.format(focus=analyst.description)\n    section = llm.invoke([SystemMessage(content=system_message)]+[HumanMessage(content=f\"Use this source to write your section: {context}\")]) \n    # Append it to state",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "initiate_all_interviews",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def initiate_all_interviews(state: ResearchGraphState):\n    \"\"\" Conditional edge to initiate all interviews via Send() API or return to create_analysts \"\"\"    \n    # Check if human feedback\n    human_analyst_feedback=state.get('human_analyst_feedback','approve')\n    if human_analyst_feedback.lower() != 'approve':\n        # Return to create_analysts\n        return \"create_analysts\"\n    # Otherwise kick off interviews in parallel via Send() API\n    else:\n        topic = state[\"topic\"]",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "write_report",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def write_report(state: ResearchGraphState):\n    \"\"\" Node to write the final report body \"\"\"\n    # Full set of sections\n    sections = state[\"sections\"]\n    topic = state[\"topic\"]\n    # Concat all sections together\n    formatted_str_sections = \"\\n\\n\".join([f\"{section}\" for section in sections])\n    # Summarize the sections into a final report\n    system_message = report_writer_instructions.format(topic=topic, context=formatted_str_sections)    \n    report = llm.invoke([SystemMessage(content=system_message)]+[HumanMessage(content=f\"Write a report based upon these memos.\")]) ",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "write_introduction",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def write_introduction(state: ResearchGraphState):\n    \"\"\" Node to write the introduction \"\"\"\n    # Full set of sections\n    sections = state[\"sections\"]\n    topic = state[\"topic\"]\n    # Concat all sections together\n    formatted_str_sections = \"\\n\\n\".join([f\"{section}\" for section in sections])\n    # Summarize the sections into a final report\n    instructions = intro_conclusion_instructions.format(topic=topic, formatted_str_sections=formatted_str_sections)    \n    intro = llm.invoke([instructions]+[HumanMessage(content=f\"Write the report introduction\")]) ",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "write_conclusion",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def write_conclusion(state: ResearchGraphState):\n    \"\"\" Node to write the conclusion \"\"\"\n    # Full set of sections\n    sections = state[\"sections\"]\n    topic = state[\"topic\"]\n    # Concat all sections together\n    formatted_str_sections = \"\\n\\n\".join([f\"{section}\" for section in sections])\n    # Summarize the sections into a final report\n    instructions = intro_conclusion_instructions.format(topic=topic, formatted_str_sections=formatted_str_sections)    \n    conclusion = llm.invoke([instructions]+[HumanMessage(content=f\"Write the report conclusion\")]) ",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "finalize_report",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "def finalize_report(state: ResearchGraphState):\n    \"\"\" The is the \"reduce\" step where we gather all the sections, combine them, and reflect on them to write the intro/conclusion \"\"\"\n    # Save full final report\n    content = state[\"content\"]\n    if content.startswith(\"## Insights\"):\n        content = content.strip(\"## Insights\")\n    if \"## Sources\" in content:\n        try:\n            content, sources = content.split(\"\\n## Sources\\n\")\n        except:",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-4o\", temperature=0) \n### Schema \nclass Analyst(BaseModel):\n    affiliation: str = Field(\n        description=\"Primary affiliation of the analyst.\",\n    )\n    name: str = Field(\n        description=\"Name of the analyst.\"\n    )\n    role: str = Field(",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "question_instructions",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "question_instructions = \"\"\"You are an analyst tasked with interviewing an expert to learn about a specific topic. \nYour goal is boil down to interesting and specific insights related to your topic.\n1. Interesting: Insights that people will find surprising or non-obvious.\n2. Specific: Insights that avoid generalities and include specific examples from the expert.\nHere is your topic of focus and set of goals: {goals}\nBegin by introducing yourself using a name that fits your persona, and then ask your question.\nContinue to ask questions to drill down and refine your understanding of the topic.\nWhen you are satisfied with your understanding, complete the interview with: \"Thank you so much for your help!\"\nRemember to stay in character throughout your response, reflecting the persona and goals provided to you.\"\"\"\ndef generate_question(state: InterviewState):",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "search_instructions",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "search_instructions = SystemMessage(content=f\"\"\"You will be given a conversation between an analyst and an expert. \nYour goal is to generate a well-structured query for use in retrieval and / or web-search related to the conversation.\nFirst, analyze the full conversation.\nPay particular attention to the final question posed by the analyst.\nConvert this final question into a well-structured web search query\"\"\")\ndef search_web(state: InterviewState):\n    \"\"\" Retrieve docs from web search \"\"\"\n    # Search\n    tavily_search = TavilySearchResults(max_results=3)\n    # Search query",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "answer_instructions",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "answer_instructions = \"\"\"You are an expert being interviewed by an analyst.\nHere is analyst area of focus: {goals}. \nYou goal is to answer a question posed by the interviewer.\nTo answer question, use this context:\n{context}\nWhen answering questions, follow these guidelines:\n1. Use only the information provided in the context. \n2. Do not introduce external information or make assumptions beyond what is explicitly stated in the context.\n3. The context contain sources at the topic of each individual document.\n4. Include these sources your answer next to any relevant statements. For example, for source # 1 use [1]. ",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "section_writer_instructions",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "section_writer_instructions = \"\"\"You are an expert technical writer. \nYour task is to create a short, easily digestible section of a report based on a set of source documents.\n1. Analyze the content of the source documents: \n- The name of each source document is at the start of the document, with the <Document tag.\n2. Create a report structure using markdown formatting:\n- Use ## for the section title\n- Use ### for sub-section headers\n3. Write the report following this structure:\na. Title (## header)\nb. Summary (### header)",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "interview_builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "interview_builder = StateGraph(InterviewState)\ninterview_builder.add_node(\"ask_question\", generate_question)\ninterview_builder.add_node(\"search_web\", search_web)\ninterview_builder.add_node(\"search_wikipedia\", search_wikipedia)\ninterview_builder.add_node(\"answer_question\", generate_answer)\ninterview_builder.add_node(\"save_interview\", save_interview)\ninterview_builder.add_node(\"write_section\", write_section)\n# Flow\ninterview_builder.add_edge(START, \"ask_question\")\ninterview_builder.add_edge(\"ask_question\", \"search_web\")",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "report_writer_instructions",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "report_writer_instructions = \"\"\"You are a technical writer creating a report on this overall topic: \n{topic}\nYou have a team of analysts. Each analyst has done two things: \n1. They conducted an interview with an expert on a specific sub-topic.\n2. They write up their finding into a memo.\nYour task: \n1. You will be given a collection of memos from your analysts.\n2. Think carefully about the insights from each memo.\n3. Consolidate these into a crisp overall summary that ties together the central ideas from all of the memos. \n4. Summarize the central points in each memo into a cohesive single narrative.",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "intro_conclusion_instructions",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "intro_conclusion_instructions = \"\"\"You are a technical writer finishing a report on {topic}\nYou will be given all of the sections of the report.\nYou job is to write a crisp and compelling introduction or conclusion section.\nThe user will instruct you whether to write the introduction or conclusion.\nInclude no pre-amble for either section.\nTarget around 100 words, crisply previewing (for introduction) or recapping (for conclusion) all of the sections of the report.\nUse markdown formatting. \nFor your introduction, create a compelling title and use the # header for the title.\nFor your introduction, use ## Introduction as the section header. \nFor your conclusion, use ## Conclusion as the section header.",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "builder = StateGraph(ResearchGraphState)\nbuilder.add_node(\"create_analysts\", create_analysts)\nbuilder.add_node(\"human_feedback\", human_feedback)\nbuilder.add_node(\"conduct_interview\", interview_builder.compile())\nbuilder.add_node(\"write_report\",write_report)\nbuilder.add_node(\"write_introduction\",write_introduction)\nbuilder.add_node(\"write_conclusion\",write_conclusion)\nbuilder.add_node(\"finalize_report\",finalize_report)\n# Logic\nbuilder.add_edge(START, \"create_analysts\")",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "description": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "peekOfCode": "graph = builder.compile(interrupt_before=['human_feedback'])",
+        "detail": "experiments.langchain-academy-main.module-4.studio.research_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "Log",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "class Log(TypedDict):\n    id: str\n    question: str\n    docs: Optional[List]\n    answer: str\n    grade: Optional[int]\n    grader: Optional[str]\n    feedback: Optional[str]\n# Failure Analysis Sub-graph\nclass FailureAnalysisState(TypedDict):",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "FailureAnalysisState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "class FailureAnalysisState(TypedDict):\n    cleaned_logs: List[Log]\n    failures: List[Log]\n    fa_summary: str\n    processed_logs: List[str]\nclass FailureAnalysisOutputState(TypedDict):\n    fa_summary: str\n    processed_logs: List[str]\ndef get_failures(state):\n    \"\"\" Get logs that contain a failure \"\"\"",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "FailureAnalysisOutputState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "class FailureAnalysisOutputState(TypedDict):\n    fa_summary: str\n    processed_logs: List[str]\ndef get_failures(state):\n    \"\"\" Get logs that contain a failure \"\"\"\n    cleaned_logs = state[\"cleaned_logs\"]\n    failures = [log for log in cleaned_logs if \"grade\" in log]\n    return {\"failures\": failures}\ndef generate_summary(state):\n    \"\"\" Generate summary of failures \"\"\"",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "QuestionSummarizationState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "class QuestionSummarizationState(TypedDict):\n    cleaned_logs: List[Log]\n    qs_summary: str\n    report: str\n    processed_logs: List[str]\nclass QuestionSummarizationOutputState(TypedDict):\n    report: str\n    processed_logs: List[str]\ndef generate_summary(state):\n    cleaned_logs = state[\"cleaned_logs\"]",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "QuestionSummarizationOutputState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "class QuestionSummarizationOutputState(TypedDict):\n    report: str\n    processed_logs: List[str]\ndef generate_summary(state):\n    cleaned_logs = state[\"cleaned_logs\"]\n    # Add fxn: summary = summarize(generate_summary)\n    summary = \"Questions focused on usage of ChatOllama and Chroma vector store.\"\n    return {\"qs_summary\": summary, \"processed_logs\": [f\"summary-on-log-{log['id']}\" for log in cleaned_logs]}\ndef send_to_slack(state):\n    qs_summary = state[\"qs_summary\"]",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "EntryGraphState",
+        "kind": 6,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "class EntryGraphState(TypedDict):\n    raw_logs: List[Log]\n    cleaned_logs: List[Log]\n    fa_summary: str # This will only be generated in the FA sub-graph\n    report: str # This will only be generated in the QS sub-graph\n    processed_logs:  Annotated[List[int], add] # This will be generated in BOTH sub-graphs\ndef clean_logs(state):\n    # Get logs\n    raw_logs = state[\"raw_logs\"]\n    # Data cleaning raw_logs -> docs ",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "get_failures",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "def get_failures(state):\n    \"\"\" Get logs that contain a failure \"\"\"\n    cleaned_logs = state[\"cleaned_logs\"]\n    failures = [log for log in cleaned_logs if \"grade\" in log]\n    return {\"failures\": failures}\ndef generate_summary(state):\n    \"\"\" Generate summary of failures \"\"\"\n    failures = state[\"failures\"]\n    # Add fxn: fa_summary = summarize(failures)\n    fa_summary = \"Poor quality retrieval of Chroma documentation.\"",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "generate_summary",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "def generate_summary(state):\n    \"\"\" Generate summary of failures \"\"\"\n    failures = state[\"failures\"]\n    # Add fxn: fa_summary = summarize(failures)\n    fa_summary = \"Poor quality retrieval of Chroma documentation.\"\n    return {\"fa_summary\": fa_summary, \"processed_logs\": [f\"failure-analysis-on-log-{failure['id']}\" for failure in failures]}\nfa_builder = StateGraph(input=FailureAnalysisState,output=FailureAnalysisOutputState)\nfa_builder.add_node(\"get_failures\", get_failures)\nfa_builder.add_node(\"generate_summary\", generate_summary)\nfa_builder.add_edge(START, \"get_failures\")",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "generate_summary",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "def generate_summary(state):\n    cleaned_logs = state[\"cleaned_logs\"]\n    # Add fxn: summary = summarize(generate_summary)\n    summary = \"Questions focused on usage of ChatOllama and Chroma vector store.\"\n    return {\"qs_summary\": summary, \"processed_logs\": [f\"summary-on-log-{log['id']}\" for log in cleaned_logs]}\ndef send_to_slack(state):\n    qs_summary = state[\"qs_summary\"]\n    # Add fxn: report = report_generation(qs_summary)\n    report = \"foo bar baz\"\n    return {\"report\": report}",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_slack",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "def send_to_slack(state):\n    qs_summary = state[\"qs_summary\"]\n    # Add fxn: report = report_generation(qs_summary)\n    report = \"foo bar baz\"\n    return {\"report\": report}\nqs_builder = StateGraph(input=QuestionSummarizationState,output=QuestionSummarizationOutputState)\nqs_builder.add_node(\"generate_summary\", generate_summary)\nqs_builder.add_node(\"send_to_slack\", send_to_slack)\nqs_builder.add_edge(START, \"generate_summary\")\nqs_builder.add_edge(\"generate_summary\", \"send_to_slack\")",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "clean_logs",
+        "kind": 2,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "def clean_logs(state):\n    # Get logs\n    raw_logs = state[\"raw_logs\"]\n    # Data cleaning raw_logs -> docs \n    cleaned_logs = raw_logs\n    return {\"cleaned_logs\": cleaned_logs}\nentry_builder = StateGraph(EntryGraphState)\nentry_builder.add_node(\"clean_logs\", clean_logs)\nentry_builder.add_node(\"question_summarization\", qs_builder.compile())\nentry_builder.add_node(\"failure_analysis\", fa_builder.compile())",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "fa_builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "fa_builder = StateGraph(input=FailureAnalysisState,output=FailureAnalysisOutputState)\nfa_builder.add_node(\"get_failures\", get_failures)\nfa_builder.add_node(\"generate_summary\", generate_summary)\nfa_builder.add_edge(START, \"get_failures\")\nfa_builder.add_edge(\"get_failures\", \"generate_summary\")\nfa_builder.add_edge(\"generate_summary\", END)\n# Summarization subgraph\nclass QuestionSummarizationState(TypedDict):\n    cleaned_logs: List[Log]\n    qs_summary: str",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "qs_builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "qs_builder = StateGraph(input=QuestionSummarizationState,output=QuestionSummarizationOutputState)\nqs_builder.add_node(\"generate_summary\", generate_summary)\nqs_builder.add_node(\"send_to_slack\", send_to_slack)\nqs_builder.add_edge(START, \"generate_summary\")\nqs_builder.add_edge(\"generate_summary\", \"send_to_slack\")\nqs_builder.add_edge(\"send_to_slack\", END)\n# Entry Graph\nclass EntryGraphState(TypedDict):\n    raw_logs: List[Log]\n    cleaned_logs: List[Log]",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "entry_builder",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "entry_builder = StateGraph(EntryGraphState)\nentry_builder.add_node(\"clean_logs\", clean_logs)\nentry_builder.add_node(\"question_summarization\", qs_builder.compile())\nentry_builder.add_node(\"failure_analysis\", fa_builder.compile())\nentry_builder.add_edge(START, \"clean_logs\")\nentry_builder.add_edge(\"clean_logs\", \"failure_analysis\")\nentry_builder.add_edge(\"clean_logs\", \"question_summarization\")\nentry_builder.add_edge(\"failure_analysis\", END)\nentry_builder.add_edge(\"question_summarization\", END)\ngraph = entry_builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "description": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "peekOfCode": "graph = entry_builder.compile()",
+        "detail": "experiments.langchain-academy-main.module-4.studio.sub_graphs",
+        "documentation": {}
+    }
+]
